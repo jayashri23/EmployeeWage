@@ -1,8 +1,4 @@
-package EmployeeWage;
-
 import java.util.Random;
-
-
 
 
 //solve usingswitch case
