@@ -1,8 +1,3 @@
-package EmployeeWage;
-
-
-
-
 //calculate Daily employee wage
 import java.util.Random;
 
