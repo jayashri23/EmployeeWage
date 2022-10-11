@@ -1,5 +1,3 @@
-package EmployeeWage;
-
 import java.util.Random;
 
 
